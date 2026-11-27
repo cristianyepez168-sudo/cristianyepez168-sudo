@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy Cristian Ypez</a>😶‍🌫️ </h1>
 </div>
-<img src="http://imgfz.com/i/euVhy1U.jpeg">
+<img src="http://imgfz.com/i/bHGYMlr.png">
 
 ## Sobre mi
 
