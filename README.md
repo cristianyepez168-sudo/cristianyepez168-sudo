@@ -2,7 +2,8 @@
 <h1 align="center">Hola, soy Cristian Ypez</a>😶‍🌫️ </h1>
 </div>
 <img src="http://imgfz.com/i/bHGYMlr.png">
-[!(https://img.shields.io/twitter/follow/cristianypqz)]
+
+![X](https://img.shields.io/twitter/follow/cristianypqz)
 
 ## Sobre mi
 
